@@ -1,6 +1,6 @@
 MONGODB_HOST: mongodb.techevolv.fun
 REDIS_HOST: redis.techevolv.fun
-# CATALOGUE_HOST: catalogue.techevolv.fun
+CATALOGUE_HOST: catalogue.techevolv.fun
 # CART_HOST: cart.techevolv.fun
 # USER_HOST: user.techevolv.fun
 # RABBITMQ_HOST: rabbitmq.techevolv.fun
